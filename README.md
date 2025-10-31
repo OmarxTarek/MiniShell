@@ -1,4 +1,4 @@
-# MiniShell
+# MiniShell (College Project)
 
 A feature-rich terminal shell written in C++ for Windows with colorful output and advanced commands.
 
