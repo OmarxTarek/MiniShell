@@ -4,7 +4,8 @@ A feature-rich terminal shell written in C++ for Windows with colorful output an
 
 ## Screenshots
 
-![MiniShell Interface](images/image.png)
+![MiniShell Interface](images/Minishell_interface.png)
+![MiniShell CMD](images/Minishell_CMD.png)
 
 ## Features
 
