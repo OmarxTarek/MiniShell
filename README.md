@@ -58,7 +58,7 @@ Simply run the compiled executable:
 
 ## Author
 
-Omar Tarek - v2.0
+Omar Tarek
 
 ## License
 
