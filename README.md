@@ -5,7 +5,6 @@ A feature-rich terminal shell written in C++ for Windows with colorful output an
 ## Screenshots
 
 ![MiniShell Interface](images/Minishell_interface.png)
-![MiniShell CMD](images/Minishell_CMD.png)
 
 ## Features
 
@@ -17,6 +16,8 @@ A feature-rich terminal shell written in C++ for Windows with colorful output an
 - 📊 **Readable File Sizes** - Automatic conversion to KB/MB/GB
 
 ## Available Commands
+
+![MiniShell CMD](images/Minishell_CMD.png)
 
 ### File & Directory Operations
 - `ls [path]` - List directory contents with file sizes
